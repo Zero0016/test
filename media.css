@@ -1,0 +1,16 @@
+@media screen and (max-width: 1920px){
+	#container{
+		width: 1903px;
+		background-size: 1903px;
+	}
+	.top_menu{
+		width: 1903px;
+		background-size: 1903px;
+	}
+	.about{
+		width: 1903px;
+	}
+	.footer{
+		width: 1903px;
+	}
+}
